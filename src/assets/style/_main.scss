@@ -1,4 +1,5 @@
 @import "./_navbar.scss";
+@import "./_contact.scss";
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&display=swap");
 
 * {
@@ -16,4 +17,9 @@ a {
   color: black;
   text-decoration: none;
   background-color: white;
+}
+
+button {
+  outline: none;
+  border: none;
 }
